@@ -1,0 +1,93 @@
+.contact_wrapper svg {
+  font-size: 1em;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.contact-form {
+  padding-top: 20px;
+
+  button {
+    float: left;
+    background-color: white;
+    color: #050f0b;
+  }
+
+  button:hover {
+    background-color: #5000ca;
+    color: white;
+  }
+
+  fieldset {
+    color: #050f0b !important;
+    border: 1px solid #050f0b !important;
+  }
+}
+
+label {
+  font-size: 1.2rem;
+  font-family: 'DomaineDispNar-Medium', sans-serif;
+}
+
+.form-flex {
+  display: flex;
+  gap: 15px;
+  padding-bottom: 15px;
+}
+
+.form-flex .MuiFormControl-root {
+  width: 100%;
+}
+
+form {
+  width: 100% !important;
+}
+
+.body-form {
+  width: 100% !important;
+  margin-bottom: 15px !important;
+}
+
+.MuiOutlinedInput-root {
+  background-color: white !important; /* Apply background only to the input area */
+  color: #050f0b !important;
+  border-radius: 4px; /* Optional: for better UI */
+}
+
+.MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
+  border: 1px solid #050f0b !important; /* Keep the border styling */
+  color: #050f0b !important; /* Ensure text color is visible */
+}
+
+.MuiOutlinedInput-input {
+  color: #050f0b !important; /* Ensure text color is visible */
+}
+.MuiInputLabel-root {
+  background-color: white !important;
+  padding: 0 4px; /* Adds padding to avoid text overlap */
+  color: #050f0b !important; /* Ensure text color is visible */
+}
+.MuiInputLabel-root.Mui-focused {
+  color: #050f0b !important;
+  background-color: white !important;
+  border-radius: 4px; /* Optional: for better UI */
+  padding: 0 6px; /* Adds space around the text */
+}
+.contact-box {
+  background-color: white;
+  color: #333;
+  padding: 15px;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  display: inline-block;
+  width: 100%;
+}
+
+.contact-box a {
+  color: #007bff;
+  text-decoration: none;
+}

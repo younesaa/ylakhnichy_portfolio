@@ -1,0 +1,49 @@
+.vertical-timeline span {
+    color: white;
+    font-family: 'Courier Prime', monospace;
+}
+
+.vertical-timeline p {
+    color: rgb(39, 40, 34);
+}
+
+.vertical-timeline-element p {
+    color: rgb(39, 40, 34);
+}
+
+.vertical-timeline-element h3 {
+    color: rgb(39, 40, 34);
+}
+
+.vertical-timeline-element h4 {
+    color: rgb(39, 40, 34);
+}
+
+.vertical-timeline-element span {
+    color: rgb(39, 40, 34);
+}
+
+.vertical-timeline-element .vertical-timeline-element-date {
+    color: white;
+}
+
+.svg-inline--fa {
+    color: white;
+}
+
+@media screen and (max-width: 1170px) {
+    .vertical-timeline-element .vertical-timeline-element-date {
+        color: rgb(39, 40, 34);
+    }
+}
+.vertical-timeline-element-title-tools {
+    display: inline; /* Make the <h4> stay on the same line as <p> */
+    margin-right: 10px; /* Optional: Add some spacing between the elements */
+  }
+  
+  .vertical-timeline-element-tools {
+    display: inline; /* Make the <p> stay on the same line as <h4> */
+  }
+  .iconColor {
+    color: rgb(255, 255, 255);
+  }
