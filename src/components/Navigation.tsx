@@ -87,8 +87,13 @@ function Navigation({parentToChild, modeChange}: any) {
           >
             <MenuIcon />
           </IconButton>
-          <h1 className="logo">Younes Lakhnichy</h1>
-          <Box sx={{ display: { xs: 'none', sm: 'block' } }}>
+          <Box sx={{ display: { xs: 'none', sm: 'flex' },
+               justifyContent: 'center',             /* Center the content horizontally */
+               alignItems: 'center',                 /* Center the content vertically */
+               textAlign: 'center',                    /* Left-align the text inside each item */
+               width: '100%',
+               gap: '5%',
+                }} >
             {navItems.map((item) => (
               <Button key={item[0]} onClick={() => scrollToSection(item[1])} sx={{ color: '#fff' }}>
                 {item[0]}

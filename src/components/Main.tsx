@@ -59,13 +59,11 @@ function Main() {
             demonstrating my expertise in optimizing workflows, implementing CI/CD pipelines, and automating infrastructure provisioning.
           </p>
           <div className="certifications">
-            <ul>
               <div>🔹 <strong>2× Azure Certified</strong></div>
               <div>🔹 <strong>2× Kubernetes Certified</strong></div>
               <div>🔹 <strong>1× Terraform Certified</strong></div>
               <div>🔹 <strong>1× SAFe Practitionner Certified</strong></div>
               <div>🔹 <strong>1× DevOps Fondation Certified</strong></div>
-            </ul>
           </div>
         </div>
         </div>

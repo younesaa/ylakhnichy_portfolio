@@ -225,6 +225,15 @@
     margin: 40px auto;
     text-align: center;
   }
+  .about-me .certifications {
+    background-color: white;
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    padding: 20px;
+    flex-wrap: wrap;
+    gap: 5%;
+  }
   
   .about-me h2 {
     font-size: 24px;
@@ -237,4 +246,3 @@
     color: rgb(0, 0, 0);
     line-height: 1.6;
   }
-  
