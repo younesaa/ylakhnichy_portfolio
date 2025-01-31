@@ -1,33 +1,27 @@
 {
   "files": {
-    "main.css": "/ylakhnichy_portfolio/static/css/main.2720562a.css",
-    "main.js": "/ylakhnichy_portfolio/static/js/main.a649067b.js",
+    "main.css": "/ylakhnichy_portfolio/static/css/main.18241e76.css",
+    "main.js": "/ylakhnichy_portfolio/static/js/main.fed0872d.js",
     "static/js/453.b05d8aa5.chunk.js": "/ylakhnichy_portfolio/static/js/453.b05d8aa5.chunk.js",
-    "static/media/mock10.png": "/ylakhnichy_portfolio/static/media/mock10.2d05b02ba569a430a255.png",
-    "static/media/mock09.png": "/ylakhnichy_portfolio/static/media/mock09.e18677ccfc932e52d754.png",
-    "static/media/mock08.png": "/ylakhnichy_portfolio/static/media/mock08.13f46873fdbd382f4b76.png",
+    "static/media/project4.gif": "/ylakhnichy_portfolio/static/media/project4.68f5665ac0ebf396997d.gif",
     "static/media/screenshot.png": "/ylakhnichy_portfolio/static/media/screenshot.92c9e7d7934ce3a0ac23.png",
-    "static/media/mock04.png": "/ylakhnichy_portfolio/static/media/mock04.f7b5679efade992a078c.png",
     "static/media/bg-light.png": "/ylakhnichy_portfolio/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/mock07.png": "/ylakhnichy_portfolio/static/media/mock07.3f1110f482232b33c6a2.png",
-    "static/media/mock05.png": "/ylakhnichy_portfolio/static/media/mock05.4faafa70d200d1519a34.png",
-    "static/media/mock06.png": "/ylakhnichy_portfolio/static/media/mock06.ea816617e0d0fa0f63ca.png",
-    "static/media/bg-dark.png": "/ylakhnichy_portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/mock01.png": "/ylakhnichy_portfolio/static/media/mock01.61bd486a54bf6e17ee5a.png",
-    "static/media/resume-younes-lakhnichy.pdf": "/ylakhnichy_portfolio/static/media/resume-younes-lakhnichy.55cefddfec756f8e8ff2.pdf",
-    "static/media/mock02.png": "/ylakhnichy_portfolio/static/media/mock02.bced48ae9cdda3acf1a3.png",
-    "static/media/mock03.png": "/ylakhnichy_portfolio/static/media/mock03.a4600719e0b5d2a3155b.png",
+    "static/media/resume-younes-lakhnichy.pdf": "/ylakhnichy_portfolio/static/media/resume-younes-lakhnichy.ec6a7aa7adbb5bc58b8e.pdf",
     "static/media/yns-removebg-preview.png": "/ylakhnichy_portfolio/static/media/yns-removebg-preview.25e0a0b47a1b08f63b1d.png",
+    "static/media/bg-dark.png": "/ylakhnichy_portfolio/static/media/bg-dark.e1432c878888cc7217b7.png",
+    "static/media/projects3.PNG": "/ylakhnichy_portfolio/static/media/projects3.8949a93df9ac4aa09d5a.PNG",
+    "static/media/project2.PNG": "/ylakhnichy_portfolio/static/media/project2.0d8af08db608559a6c53.PNG",
+    "static/media/project1.png": "/ylakhnichy_portfolio/static/media/project1.58aff549238a784f2d43.png",
     "static/media/SP.png": "/ylakhnichy_portfolio/static/media/SP.5f2f5e351062d39a4424.png",
     "static/media/image.png": "/ylakhnichy_portfolio/static/media/image.f3b14621f646b50f3794.png",
     "static/media/favicon.ico": "/ylakhnichy_portfolio/static/media/favicon.a6cfc161720075f17eb6.ico",
     "index.html": "/ylakhnichy_portfolio/index.html",
-    "main.2720562a.css.map": "/ylakhnichy_portfolio/static/css/main.2720562a.css.map",
-    "main.a649067b.js.map": "/ylakhnichy_portfolio/static/js/main.a649067b.js.map",
+    "main.18241e76.css.map": "/ylakhnichy_portfolio/static/css/main.18241e76.css.map",
+    "main.fed0872d.js.map": "/ylakhnichy_portfolio/static/js/main.fed0872d.js.map",
     "453.b05d8aa5.chunk.js.map": "/ylakhnichy_portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2720562a.css",
-    "static/js/main.a649067b.js"
+    "static/css/main.18241e76.css",
+    "static/js/main.fed0872d.js"
   ]
 }
