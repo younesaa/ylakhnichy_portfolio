@@ -5,13 +5,14 @@
 .about-section {
     display: flex;
     align-items: center;
+    text-align: center;
     margin: auto;
     gap: 30px;
     justify-content: center;
     width: 100%;
     padding: 0px 15%;
     min-height: 700px;
-    background-color: #050f0b;
+    background-color: #000000;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -115,11 +116,14 @@
     @media (max-width:768px) {
         .about-section h1 {
             font-size: 4em !important;
-            text-align: left;
+            text-align: center;
         }
-
+        .about-section .image-wrapper {
+            text-align: center;
+            width: 100%;
+        }
         .about-section p {
-            text-align: left;
+            text-align: center;
         }
 
         .container {
@@ -136,6 +140,10 @@
             flex-direction: row;
             gap: 10px;
             color: white;
+            margin: 10%;
+            text-align: center;
+            justify-content: center; /* Centers icons inside */
+            align-items: center; /* Aligns items vertically */
     
             svg {
                 font-size: 1.8em;
@@ -143,10 +151,14 @@
         }
 
         .about-section {
-            padding-top: 150px;
-            display: block;
-            padding-left: 0px;
-            padding-right: 0px;
+            display: flex; /* Ensures flex properties apply */
+            flex-direction: column; /* Stack elements vertically */
+            align-items: center; /* Centers children horizontally */
+            justify-content: center; /* Centers content vertically */
+            padding-left: 5%;
+            padding-right: 5%;
+            padding-bottom: 5%;
+            text-align: center; /* Ensures text is centered */
         }
 
         .about-section .content {
@@ -154,11 +166,6 @@
             padding-left: 5%;
             padding-right: 5%;
             padding-bottom: 5%;
-        }
-
-        .about-section .image-wrapper {
-            padding-left: 5%;
-            width: 100%;
         }
     }
 }

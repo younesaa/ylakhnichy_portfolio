@@ -34,16 +34,15 @@ function Main() {
           <div className="content">
             <h1>Younes Lakhnichy</h1>
             <p>DevOps & Software Engineer</p>
-
-            <div className="mobile_social_icons">
-              <a href="https://github.com/younesaa?tab=repositories" target="_blank" rel="noreferrer"><GitHubIcon/></a>
-              <a href="https://www.linkedin.com/in/younes-lakhnichy-027897133/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
-            </div>
             <div className="buttons">
               <button className="resume-button" onClick={handleDownloadResume}>Download Resume</button>
               <button className="contact-button" onClick={handleScrollToContact}>Contact Me</button>
             </div>
             <div className="social_icons">
+              <a href="https://github.com/younesaa?tab=repositories" target="_blank" rel="noreferrer"><GitHubIcon/></a>
+              <a href="https://www.linkedin.com/in/younes-lakhnichy-027897133/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            </div>
+            <div className="mobile_social_icons">
               <a href="https://github.com/younesaa?tab=repositories" target="_blank" rel="noreferrer"><GitHubIcon/></a>
               <a href="https://www.linkedin.com/in/younes-lakhnichy-027897133/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
             </div>

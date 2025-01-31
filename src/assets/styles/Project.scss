@@ -15,8 +15,9 @@
 .projects-container .projects-grid .project {
   text-align: center;
   width: 100%;
-  max-width: 400px; /* Ensures consistent size for all projects */
+  max-width: 600px; /* Ensures consistent size for all projects */
   margin-bottom: 10px; /* Adjusts spacing between projects */
+  object-fit: cover;
 }
 
 .zoom {

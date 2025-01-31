@@ -3,11 +3,32 @@ import '../assets/styles/Project.scss';
 
 const timelineData = [
   {
-    title: "Project 1",
-    image_name: "mock01.png", 
-    description: "iI did",
-    tools: "Kubernetes, Helm, Cloud Native Technologies",
-    gitLink: "https://www.credly.com/badges/4876f37d-30e8-473f-8912-82112ef7a30f/public_url"
+    title: "Blog APP Deployment",
+    image_name: "project4.gif", 
+    description: "Production Level Blog APP Deployment using EKS, Nexus, SonarQube, Trivy with Monitoring Tools Prometheus / Grafana",
+    tools: "Tools: Jenkins, Terraform, Trivy, sonarQube, Nexus, Docker, Kubernetes, Grafana, Prometheus",
+    gitLink: "https://github.com/younesaa/Blog_APP_Deployment"
+  },
+  {
+    title: " Reddit app Deploy",
+    image_name: "projects3.PNG", 
+    description: "Deploy Reddit App to Amazon Elastic Kubernetes Service (EKS) using ArgoCD and monitor its performance Prometheus / Grafana",
+    tools: "Tools: docker, jenkins, Github, sonarqube, trivy, Kubernetes, ArgoCD, Prometheus, Grafana, AWS EKS",
+    gitLink: "https://github.com/younesaa/Reddit_Project_Deploy"
+  },
+  {
+    title: "DockerCoins App orchestration",
+    image_name: "project2.PNG", 
+    description: "Deployment and orchestration of Mining application Kubernetes orchestration",
+    tools: "Tools: Kubernetes, Docker, Helm",
+    gitLink: "https://github.com/younesaa/DockerCoins_App"
+  },
+  {
+    title: "Full End to end CI/CD pipeline",
+    image_name: "project1.png", 
+    description: "End to end pipeline on Jenkins for java cloud application to run on Azure provider",
+    tools: "Tools: maven, Java, Jenkins, SonarQube, Docker, PosgreSQL database, terraform, Microsoft Azure Cloud Provider, WSL",
+    gitLink: "https://github.com/younesaa/m2i_DevOpsfull_CICD_Project"
   }
 ];
 
@@ -33,12 +54,26 @@ function Project() {
 
                         {/* Title below the video */}
                         <div className="project-title">
-                            <a href={item.gitLink} target="_blank" rel="noreferrer">
                                 <h2>{item.title}</h2>
-                            </a>
                         </div>
-                        
                         <p>{item.description}</p>
+                        <p>{item.tools}</p>
+                        <button onClick={() => window.open(item.gitLink, "_blank")} // Opens link in a new tab
+                          style={{
+                            marginTop: "10px",
+                            padding: "8px 15px",
+                            fontSize: "14px",
+                            fontWeight: "bold",
+                            border: "none",
+                            borderRadius: "8px",
+                            cursor: "pointer",
+                            background: "#5000ca",
+                            color: "white",
+                            transition: "all 0.3s ease-in-out",
+                          }}
+                          >
+                          Github
+                          </button>
                     </div>
                 ))}
             </div>

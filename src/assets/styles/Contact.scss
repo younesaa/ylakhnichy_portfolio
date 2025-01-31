@@ -8,9 +8,14 @@
   padding-top: 20px;
 
   button {
-    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: white;
     color: #050f0b;
+    width: 20%;
+    text-align: center;
+    margin: auto;
   }
 
   button:hover {
