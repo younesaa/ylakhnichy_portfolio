@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/ylakhnichy_portfolio/static/css/main.18241e76.css",
-    "main.js": "/ylakhnichy_portfolio/static/js/main.fed0872d.js",
+    "main.js": "/ylakhnichy_portfolio/static/js/main.86c235f9.js",
     "static/js/453.b05d8aa5.chunk.js": "/ylakhnichy_portfolio/static/js/453.b05d8aa5.chunk.js",
-    "static/media/project4.gif": "/ylakhnichy_portfolio/static/media/project4.68f5665ac0ebf396997d.gif",
     "static/media/screenshot.png": "/ylakhnichy_portfolio/static/media/screenshot.92c9e7d7934ce3a0ac23.png",
     "static/media/bg-light.png": "/ylakhnichy_portfolio/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/resume-younes-lakhnichy.pdf": "/ylakhnichy_portfolio/static/media/resume-younes-lakhnichy.ec6a7aa7adbb5bc58b8e.pdf",
+    "static/media/project4.png": "/ylakhnichy_portfolio/static/media/project4.db66c2db88b7808c4e39.png",
     "static/media/yns-removebg-preview.png": "/ylakhnichy_portfolio/static/media/yns-removebg-preview.25e0a0b47a1b08f63b1d.png",
     "static/media/bg-dark.png": "/ylakhnichy_portfolio/static/media/bg-dark.e1432c878888cc7217b7.png",
     "static/media/projects3.PNG": "/ylakhnichy_portfolio/static/media/projects3.8949a93df9ac4aa09d5a.PNG",
     "static/media/project2.PNG": "/ylakhnichy_portfolio/static/media/project2.0d8af08db608559a6c53.PNG",
-    "static/media/project1.png": "/ylakhnichy_portfolio/static/media/project1.58aff549238a784f2d43.png",
+    "static/media/project1.PNG": "/ylakhnichy_portfolio/static/media/project1.757d358a23d89956ef7d.PNG",
     "static/media/SP.png": "/ylakhnichy_portfolio/static/media/SP.5f2f5e351062d39a4424.png",
     "static/media/image.png": "/ylakhnichy_portfolio/static/media/image.f3b14621f646b50f3794.png",
     "static/media/favicon.ico": "/ylakhnichy_portfolio/static/media/favicon.a6cfc161720075f17eb6.ico",
     "index.html": "/ylakhnichy_portfolio/index.html",
     "main.18241e76.css.map": "/ylakhnichy_portfolio/static/css/main.18241e76.css.map",
-    "main.fed0872d.js.map": "/ylakhnichy_portfolio/static/js/main.fed0872d.js.map",
+    "main.86c235f9.js.map": "/ylakhnichy_portfolio/static/js/main.86c235f9.js.map",
     "453.b05d8aa5.chunk.js.map": "/ylakhnichy_portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18241e76.css",
-    "static/js/main.fed0872d.js"
+    "static/js/main.86c235f9.js"
   ]
 }
