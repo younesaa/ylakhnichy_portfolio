@@ -4,7 +4,7 @@ import '../assets/styles/Project.scss';
 const timelineData = [
   {
     title: "Blog APP Deployment",
-    image_name: "project4.gif", 
+    image_name: "project4.png", 
     description: "Production Level Blog APP Deployment using EKS, Nexus, SonarQube, Trivy with Monitoring Tools Prometheus / Grafana",
     tools: "Tools: Jenkins, Terraform, Trivy, sonarQube, Nexus, Docker, Kubernetes, Grafana, Prometheus",
     gitLink: "https://github.com/younesaa/Blog_APP_Deployment"
@@ -25,7 +25,7 @@ const timelineData = [
   },
   {
     title: "Full End to end CI/CD pipeline",
-    image_name: "project1.png", 
+    image_name: "project1.PNG", 
     description: "End to end pipeline on Jenkins for java cloud application to run on Azure provider",
     tools: "Tools: maven, Java, Jenkins, SonarQube, Docker, PosgreSQL database, terraform, Microsoft Azure Cloud Provider, WSL",
     gitLink: "https://github.com/younesaa/m2i_DevOpsfull_CICD_Project"
@@ -33,7 +33,7 @@ const timelineData = [
 ];
 
 function Project() {
-      const [shownElements, setShownElements] = useState(3);
+      const [shownElements, setShownElements] = useState(4);
       const hasHiddenElements = timelineData.length > shownElements;
       return (
         <div className="projects-container" id="projects">
