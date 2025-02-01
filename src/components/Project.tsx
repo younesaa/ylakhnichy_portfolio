@@ -17,18 +17,18 @@ const timelineData = [
     gitLink: "https://github.com/younesaa/Reddit_Project_Deploy"
   },
   {
-    title: "DockerCoins App orchestration",
-    image_name: "project2.PNG", 
-    description: "Deployment and orchestration of Mining application Kubernetes orchestration",
-    tools: "Tools: Kubernetes, Docker, Helm",
-    gitLink: "https://github.com/younesaa/DockerCoins_App"
-  },
-  {
     title: "Full End to end CI/CD pipeline",
     image_name: "project1.PNG", 
     description: "End to end pipeline on Jenkins for java cloud application to run on Azure provider",
     tools: "Tools: maven, Java, Jenkins, SonarQube, Docker, PosgreSQL database, terraform, Microsoft Azure Cloud Provider, WSL",
     gitLink: "https://github.com/younesaa/m2i_DevOpsfull_CICD_Project"
+  },
+  {
+    title: "DockerCoins App orchestration",
+    image_name: "project2.PNG", 
+    description: "Deployment and orchestration of Mining application Kubernetes orchestration",
+    tools: "Tools: Kubernetes, Docker, Helm",
+    gitLink: "https://github.com/younesaa/DockerCoins_App"
   }
 ];
 
@@ -38,7 +38,7 @@ function Project() {
       return (
         <div className="projects-container" id="projects">
             {/* Keep h1 outside of .projects-grid */}
-            <h1>Freelance Projects</h1>
+            <h1>Projects</h1>
 
             <div className="projects-grid">
                 {timelineData.slice(0, shownElements).map((item, index) => (
