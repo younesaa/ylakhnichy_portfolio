@@ -10,18 +10,18 @@ const timelineData = [
     gitLink: "https://github.com/younesaa/Blog_APP_Deployment"
   },
   {
-    title: " Reddit app Deploy",
-    image_name: "projects3.PNG", 
-    description: "Deploy Reddit App to Amazon Elastic Kubernetes Service (EKS) using ArgoCD and monitor its performance Prometheus / Grafana",
-    tools: "Tools: docker, jenkins, Github, sonarqube, trivy, Kubernetes, ArgoCD, Prometheus, Grafana, AWS EKS",
-    gitLink: "https://github.com/younesaa/Reddit_Project_Deploy"
-  },
-  {
     title: "Full End to end CI/CD pipeline",
     image_name: "project1.PNG", 
     description: "End to end pipeline on Jenkins for java cloud application to run on Azure provider",
     tools: "Tools: maven, Java, Jenkins, SonarQube, Docker, PosgreSQL database, terraform, Microsoft Azure Cloud Provider, WSL",
     gitLink: "https://github.com/younesaa/m2i_DevOpsfull_CICD_Project"
+  },
+  {
+    title: " Reddit app Deploy",
+    image_name: "projects3.PNG", 
+    description: "Deploy Reddit App to Amazon Elastic Kubernetes Service (EKS) using ArgoCD and monitor its performance Prometheus / Grafana",
+    tools: "Tools: docker, jenkins, Github, sonarqube, trivy, Kubernetes, ArgoCD, Prometheus, Grafana, AWS EKS",
+    gitLink: "https://github.com/younesaa/Reddit_Project_Deploy"
   },
   {
     title: "DockerCoins App orchestration",
