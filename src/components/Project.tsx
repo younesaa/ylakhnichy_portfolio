@@ -33,7 +33,7 @@ const timelineData = [
 ];
 
 function Project() {
-      const [shownElements, setShownElements] = useState(4);
+      const [shownElements, setShownElements] = useState(3);
       const hasHiddenElements = timelineData.length > shownElements;
       return (
         <div className="projects-container" id="projects">
