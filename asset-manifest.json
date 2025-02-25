@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/ylakhnichy_portfolio/static/css/main.d75e5c6b.css",
-    "main.js": "/ylakhnichy_portfolio/static/js/main.de3a61e8.js",
+    "main.css": "/ylakhnichy_portfolio/static/css/main.15fd6ab2.css",
+    "main.js": "/ylakhnichy_portfolio/static/js/main.45e1f6e9.js",
     "static/js/453.b05d8aa5.chunk.js": "/ylakhnichy_portfolio/static/js/453.b05d8aa5.chunk.js",
     "static/media/screenshot.png": "/ylakhnichy_portfolio/static/media/screenshot.92c9e7d7934ce3a0ac23.png",
     "static/media/bg-light.png": "/ylakhnichy_portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/project5.png": "/ylakhnichy_portfolio/static/media/project5.4aaaf9f7dfeec50d65c5.png",
     "static/media/resume-younes-lakhnichy.pdf": "/ylakhnichy_portfolio/static/media/resume-younes-lakhnichy.640f28a150250fa17352.pdf",
     "static/media/project4.png": "/ylakhnichy_portfolio/static/media/project4.db66c2db88b7808c4e39.png",
     "static/media/yns-removebg-preview.png": "/ylakhnichy_portfolio/static/media/yns-removebg-preview.25e0a0b47a1b08f63b1d.png",
@@ -16,12 +17,12 @@
     "static/media/image.png": "/ylakhnichy_portfolio/static/media/image.f3b14621f646b50f3794.png",
     "static/media/favicon.ico": "/ylakhnichy_portfolio/static/media/favicon.a6cfc161720075f17eb6.ico",
     "index.html": "/ylakhnichy_portfolio/index.html",
-    "main.d75e5c6b.css.map": "/ylakhnichy_portfolio/static/css/main.d75e5c6b.css.map",
-    "main.de3a61e8.js.map": "/ylakhnichy_portfolio/static/js/main.de3a61e8.js.map",
+    "main.15fd6ab2.css.map": "/ylakhnichy_portfolio/static/css/main.15fd6ab2.css.map",
+    "main.45e1f6e9.js.map": "/ylakhnichy_portfolio/static/js/main.45e1f6e9.js.map",
     "453.b05d8aa5.chunk.js.map": "/ylakhnichy_portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d75e5c6b.css",
-    "static/js/main.de3a61e8.js"
+    "static/css/main.15fd6ab2.css",
+    "static/js/main.45e1f6e9.js"
   ]
 }
