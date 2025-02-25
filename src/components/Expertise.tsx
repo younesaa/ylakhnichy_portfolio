@@ -84,8 +84,8 @@ function Expertise() {
                 </div>
 
                 <div className="skill">
-                    <FontAwesomeIcon icon={faCloud} size="3x"/>
-                    <h3>Cloud & Infrastructure</h3>
+                    <FontAwesomeIcon icon={faCloud} className="fa-cloud-custom" size="3x" />
+                    <h3>Cloud & Infrastructure Management</h3>
                     <p>I help organizations optimize their cloud infrastructure, implement security best practices, and ensure high availability and scalability of their systems.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>

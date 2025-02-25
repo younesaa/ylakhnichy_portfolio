@@ -18,6 +18,11 @@
 .skills-container .skills-grid .skill {
     align-items: center;
     text-align: left;
+    .fa-cloud-custom {
+        --fa-primary-color: #ffffff;
+        --fa-secondary-color: #000000;
+        --fa-secondary-opacity: 1;
+      }
 }
   
 .chip {

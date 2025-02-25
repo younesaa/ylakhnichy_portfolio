@@ -17,6 +17,13 @@ const timelineData = [
     gitLink: "https://github.com/younesaa/m2i_DevOpsfull_CICD_Project"
   },
   {
+    title: " IT Support System Management",
+    image_name: "project5.png", 
+    description: "Develop a full IT ticketing Support System with Spring Framwork, Ocarle DB et Java Swing for UI",
+    tools: "Tools: Java 17, Spring Boot, Spring Security, JWT, JUnit, Mockito, Docker,  Oracle SQL, swagger, Java Swing ",
+    gitLink: "https://github.com/younesaa/HAHN-IT_Support_Ticketing_System"
+  },
+  {
     title: " Reddit app Deploy",
     image_name: "projects3.PNG", 
     description: "Deploy Reddit App to Amazon Elastic Kubernetes Service (EKS) using ArgoCD and monitor its performance Prometheus / Grafana",
@@ -33,7 +40,7 @@ const timelineData = [
 ];
 
 function Project() {
-      const [shownElements, setShownElements] = useState(3);
+      const [shownElements, setShownElements] = useState(4);
       const hasHiddenElements = timelineData.length > shownElements;
       return (
         <div className="projects-container" id="projects">
